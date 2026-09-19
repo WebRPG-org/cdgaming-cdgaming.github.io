@@ -6,6 +6,3 @@
   overflow: scroll;
   white-space: nowrap;
 }
-img {
-  pointer-events: none;
-}
